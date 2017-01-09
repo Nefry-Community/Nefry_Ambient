@@ -1,0 +1,3 @@
+[submodule "src/include/Ambient"]
+	path = src/include/Ambient
+	url = https://github.com/TakehikoShimojima/Ambient_ESP8266_lib.git
